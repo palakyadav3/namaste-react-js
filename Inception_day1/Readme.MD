@@ -1,9 +1,9 @@
-# What is Emmet?
+## What is Emmet?
 It's a in-build code structure that developers used to increase their coding speed.
-# Difference between a Library and Framework?
+## Difference between a Library and Framework?
 Library : is a piece of code written by someone else to solve problems, but we can manipulate them and also run them on particular small phase. [ant design, react]
 Framework : is also, same as library. But it's a blueprint where developer can change little bit as per their permission.[next js]. In framework we need to follow the structure.
-# What is CDN? Why do we use it?
+## What is CDN? Why do we use it?
 Content Delivery Network : when we not install package but want to used them without store into localStorage, just like a rent a bike but not buy them.
 # Why is React known as React?
 it's work instantly, and load data without page loading.
