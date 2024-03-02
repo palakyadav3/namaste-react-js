@@ -1,4 +1,4 @@
-#What is Emmet?
+# What is Emmet?
 It's a in-build code structure that developers used to increase their coding speed.
 #Difference between a Library and Framework?
 Library : is a piece of code written by someone else to solve problems, but we can manipulate them and also run them on particular small phase. [ant design, react]
