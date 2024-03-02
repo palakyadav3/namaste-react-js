@@ -9,4 +9,4 @@
 * CDN
 * Crossorigin in script tag
 * React Vs ReactDOM
-* async and defe
+* async and defer
